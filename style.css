@@ -138,7 +138,7 @@ label {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  color:  #663399;whitesmoke
+  color:  black;#663399whitesmoke
 }
 
 .text-muted{
@@ -147,7 +147,7 @@ label {
 
 #numbers .fa {
   font-size: 40px;
-  color: #F9690E;
+  color: red;#F9690E
 }
 
 /*end numbers section */
